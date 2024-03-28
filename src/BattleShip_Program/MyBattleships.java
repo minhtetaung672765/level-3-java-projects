@@ -1,4 +1,4 @@
-package FAssignment2;
+package BattleShip_Program;
 
 import java.util.Random;
 import java.util.Scanner;

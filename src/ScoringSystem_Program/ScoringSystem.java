@@ -1,4 +1,4 @@
-package BTECFinalAssignment2;
+package ScoringSystem_Program;
 
 import java.util.Arrays;
 import java.util.Scanner;

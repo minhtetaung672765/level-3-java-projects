@@ -1,4 +1,4 @@
-package BTECFinalAssessment1;
+package Employee_Expense_Program;
 
 public  class Expense {
     private String Category;
